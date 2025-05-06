@@ -22,3 +22,5 @@ print(cursor.fetchall())
 
 # Close the connection
 conn.close()
+
+#test
